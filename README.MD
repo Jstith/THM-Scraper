@@ -12,11 +12,11 @@ This is a small script to scrape information about TryHackMe users created to ai
 
 ### Run
 To run, first install python3, pip, and the necessary dependences
-```python3
+```
 pip install -r requirements.txt
 ```
 Once the dependencies are installed, run the python script with
-```python3
+```
 python3 thmScraper.py
 ```
 
